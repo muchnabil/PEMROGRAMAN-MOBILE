@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(title: const Text('Laporan Praktikum 3')),
         body: const Center(
           child: Text(
-            'Muchammad Nabil', // GANTI DENGAN NAMA LENGKAPMU
+            'Muchammad Nabil Haykal Widarto (2341760152)', // GANTI DENGAN NAMA LENGKAPMU
             style: TextStyle(fontSize: 24),
           ),
         ),
