@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Berdasarkan kode di atas, nilai total belanja Anda dipengaruhi secara langsung oleh 3 digit terakhir NIM Anda. Digit tersebut dikonversi menjadi tipe data double dan ditambahkan sebagai item harga ke-6 di dalam keranjang belanja. Semakin besar angka terakhir NIM Anda, maka peluang untuk mencapai ambang batas diskon (Rp 100.000 atau Rp 200.000) akan semakin besar.
