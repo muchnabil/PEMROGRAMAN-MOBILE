@@ -10,9 +10,10 @@ bool isPrima(int angka) {
 }
 
 void main() {
+  print("--- Laporan Bilangan Prima ---"); // Tambah judul
   for (int i = 1; i <= 20; i++) {
     if (isPrima(i)) {
-      print("$i adalah bilangan prima");
+      print("Angka $i merupakan bilangan prima"); // Kalimat diperjelas
     }
   }
 }
